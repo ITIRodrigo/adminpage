@@ -1,0 +1,19 @@
+.Title{
+	font-family: sans-serif;
+	font-size: 40px;
+}
+
+.sub{
+	font-size: 20px;
+}
+
+.image{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+.boton{
+	position: absolute;
+ left: 80%;
+}
